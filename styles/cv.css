@@ -1,5 +1,7 @@
 /* CV Stylesheet - Clean Professional Design */
 
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
+
 :root {
   --color-primary: #2563eb;
   --color-text: #1f2937;
@@ -36,6 +38,11 @@ h1 + p {
   color: var(--color-text-muted);
   font-size: 9pt;
   margin-bottom: 1.5em;
+}
+
+h1 + p i {
+  color: var(--color-primary);
+  margin-right: 0.2em;
 }
 
 /* Section Headers */

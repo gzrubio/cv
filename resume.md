@@ -12,55 +12,88 @@ pdf_options:
 
 # Gonzalo Rubio-Casas
 
-[email@example.com](mailto:email@example.com) · [grubio.dev](https://grubio.dev) · [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) · [github.com/gzrubio](https://github.com/gzrubio)
+<i class="fa-solid fa-envelope"></i> [hello@grubio.dev](mailto:hello@grubio.dev) · <i class="fa-solid fa-globe"></i> [grubio.dev](https://grubio.dev) · <i class="fa-brands fa-linkedin"></i> [gonzalo-rubio-casas](https://linkedin.com/in/gonzalo-rubio-casas) · <i class="fa-brands fa-github"></i> [gzrubio](https://github.com/gzrubio)
 
-## Summary
+---
 
-Systems Thinker with a background in Mathematics and Software Engineering. I connect systems, bridge domains, and ensure technology gets out of the way of users. Experienced in building and leading engineering teams, designing scalable architectures, and translating complex technical concepts into business value.
+In an era where the cost of a line of code is trending toward zero, you need a systems thinker. Someone who cares not just about the technology, but about the ultimate goal and the dynamics to navigate to get there.
+
+I've spent the last 10 years working with startups, enterprises, and universities, doing exactly that: building a consistent, unified path towards the bigger picture.
 
 ## Experience
 
 ### Chief Technology Officer
-*bmetric · Present*
+**bmetric** · Sep 2025 – Present · Barcelona, Spain
 
-- Lead technical strategy and engineering team
-- Design and implement scalable systems architecture
-- Bridge technical and business domains to deliver user-focused solutions
+- Lead technical strategy and engineering team for AI-powered contact channel management platform
+- Drive architecture decisions and maintain engineering standards across the organization
 
-### Founder
-*Sotavento Labs · Present*
+### Technical Lead
+**bmetric** · Mar 2024 – Sep 2025 · Copenhagen, Denmark
 
-- Channel ideas and experimentation into innovative projects
-- Explore emerging technologies and their applications
-- Build tools and systems that solve real problems
+- Took full ownership of release management and platform engineering after CTO transitioned to advisory role
+- Designed experimentation and evaluation framework guiding development of company's AI initiatives
+- Acted as highest technical escalation point, resolving complex issues and maintaining engineering standards
+- Led releases and platform infrastructure ensuring seamless deployments and high system reliability
 
-<!-- Add more experience entries following this format:
+### Data Engineer
+**Allianz Technology** · Jan 2023 – Mar 2024 · Barcelona, Spain
 
-### Role Title
-*Company · Start Date – End Date*
+- Stabilized and optimized custom data platform for Allianz's largest Conversational AI client
+- Increased platform SLO from 10% to 90% and reduced monthly infrastructure costs by 80%
+- Designed UX and experimentation process resulting in 75% faster business reporting
+- Secured 2-year client extension through technical stability and clear stakeholder communication
+- Led weekly strategy meetings with globally distributed client leadership
 
-- Achievement or responsibility
-- Another bullet point
+### Site Reliability Engineer
+**bmetric** · Jul 2020 – Jan 2023 · Copenhagen, Denmark
 
--->
+- Delivered 30k monthly calls through custom high-availability VoIP across 28 EU countries
+- Handled 1 million monthly sessions through end-to-end robust web services
+- Achieved 95% reduction in manual configuration via Infrastructure as Code
+- Shortened release cycle from 2 hours to 2 minutes with CI/CD automation
+- Reduced incident response time by 70% through tailored monitoring and playbooks
+- Created 90% documentation coverage of 10-year-old platform
+
+### Site Reliability Engineer
+**bmetric** · Aug 2018 – Jul 2020 · Copenhagen, Denmark
+
+- Enhanced platform resilience and operational efficiency through high-availability architecture
+- Built automation and comprehensive monitoring systems
+
+### Teaching Assistant – Network Security
+**DTU - Technical University of Denmark** · Feb 2020 – May 2020 · Copenhagen, Denmark
+
+- Selected for outstanding performance in previous course edition
+- Facilitated lab sessions and guided hands-on exercises in multi-cultural environment
+
+### Undergraduate Research Assistant
+**Technical University of Madrid** · Nov 2017 – Apr 2018 · Madrid, Spain
+
+- Received scholarship for academic excellence to research cryptography and information security
 
 ## Education
 
-### Degree Name
-*University · Graduation Year*
+### Master of Science in Computer Science
+**DTU - Technical University of Denmark** · 2018 – 2020
 
-<!-- Add your education details -->
+### Bachelor's Degree in Mathematics and Computer Science
+**Universidad Politécnica de Madrid** · 2013 – 2018 · Computational Mathematics
+
+### Exchange Student – Computer Science
+**Uppsala University** · 2016 – 2017
 
 ## Skills
 
-- Systems Architecture
-- Team Leadership
-- Software Engineering
-- Mathematics
-- Strategic Thinking
+**Technical Leadership** · **AI Engineering** · **Software Systems Engineering** · **Platform Reliability** · **Infrastructure as Code** · **CI/CD** · **Kubernetes** · **Elasticsearch**
 
-## Interests
+## Languages
 
-- Amateur Radio
-- Artificial Intelligence
-- Systems Thinking
+- Spanish (Native)
+- English (Native/Bilingual)
+- French (Elementary)
+
+## Certifications
+
+- Certified Kubernetes Administrator (CKA) – The Linux Foundation
+- Linux Foundation Certified System Administrator (LFCS)
