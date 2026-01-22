@@ -1,0 +1,14 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Gonzalo Rubio-Casas CV - Markdown to PDF",
+  "private": true,
+  "scripts": {
+    "build": "md-to-pdf resume.md",
+    "watch": "md-to-pdf --watch resume.md",
+    "clean": "rm -f resume.pdf"
+  },
+  "devDependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
